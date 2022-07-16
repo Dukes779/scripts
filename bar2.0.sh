@@ -3,8 +3,8 @@
 # ^b$var^ = bg color
 
 # load colors
-. ~/Documents/Scripts/anexample.sh 
-
+# . ~/Documents/Scripts/anexample.sh 
+. ~/themes/bar/gruvbox.sh
 volume () {
     volume_val="$(amixer.sh)"
     printf "^b$purple^^c$default^ 墳 "
