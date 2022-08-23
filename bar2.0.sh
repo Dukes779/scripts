@@ -4,7 +4,7 @@
 
 # load colors
 # . ~/Documents/Scripts/anexample.sh 
-. ~/themes/bar/gruvbox.sh
+. ~/themes/bar/catpuccin.sh
 volume () {
     volume_val="$(amixer.sh)"
     printf "^b$purple^^c$default^ 墳 "
